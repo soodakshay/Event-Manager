@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/simple">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="29dp"
+        android:layout_marginTop="66dp"
+        android:text="Title"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvTitle"
+        android:layout_below="@+id/tvTitle"
+        android:layout_marginTop="37dp"
+        android:singleLine="true"
+        android:text="Description"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvTitle"
+        android:layout_alignBottom="@+id/tvTitle"
+        android:layout_alignLeft="@+id/createBT"
+        android:layout_alignStart="@+id/createBT"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/descstyle"
+
+        android:ems="10"
+
+        android:textColor="#111">
+
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/etDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:layout_alignBaseline="@+id/tvDescription"
+        android:layout_alignLeft="@+id/etTitle"
+        android:layout_alignStart="@+id/etTitle"
+        android:layout_alignTop="@+id/tvDescription"
+        android:background="@drawable/descstyle"
+        android:ems="10"
+        android:gravity="left"
+        android:inputType="textMultiLine"
+
+        android:textColor="#111" />
+
+    <TextView
+        android:id="@+id/tvVenue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvTime"
+        android:layout_below="@+id/tvTime"
+        android:layout_marginTop="37dp"
+        android:text="Venue"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvDescription"
+        android:layout_below="@+id/tvDescription"
+        android:layout_marginTop="103dp"
+        android:text="Time"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/etVenue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvVenue"
+        android:layout_alignLeft="@+id/etTime"
+        android:layout_alignStart="@+id/etTime"
+        android:layout_below="@+id/etTime"
+        android:layout_toRightOf="@+id/tvVenue"
+        android:background="@drawable/descstyle"
+        android:ems="10"
+        android:gravity="left"
+        android:singleLine="true"
+        android:textColor="#111" />
+
+    <Button
+        android:id="@+id/createBT"
+        android:layout_width="115dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="42dp"
+        android:background="@drawable/custom_btn_shakespeare"
+        android:text="Create"
+        android:textColor="#ffffff" />
+
+    <EditText
+        android:id="@+id/etTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvTime"
+        android:layout_alignLeft="@+id/etDescription"
+        android:layout_alignStart="@+id/etDescription"
+        android:layout_below="@+id/etDescription"
+        android:layout_toRightOf="@+id/tvTime"
+        android:background="@drawable/descstyle"
+        android:ems="10"
+        android:gravity="left"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:textColor="#111" />
+
+    <Button
+        android:id="@+id/placePickerBT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/etVenue"
+        android:layout_alignLeft="@+id/etVenue"
+        android:layout_alignRight="@+id/etVenue"
+        android:layout_alignStart="@+id/etVenue"
+        android:layout_below="@+id/tvVenue"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/tvVenue"
+        android:background="@drawable/custom_btn_shakespeare"
+        android:text="Select Venue"
+        android:textColor="#ffffff" />
+
+</RelativeLayout>
