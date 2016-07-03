@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_9a083c938c0e1ee5440f69c599e4a823fb98684f.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1_1d8537b6c792658fff923816c986554f3dea159f.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_a4acac3f17276550ae87248c38caf1de31d52eb1.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_e1adbbf0bd47a72e7c67fe510ce230a004b2c9c4.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.4.0_2ab7def3a40b9f7fe09a9a1408ed8b8bfc1c750e.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_125884064daacbe122837ad241c3a5e8b2bd16f2.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_60cf88e8caca93d717e0d9bc953fa2e790d0b586.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_79b86c2a98cb532807db23af676b077e3e4601ab.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_5dbed2786831c7eb810cdc4ef99a6eba42747c62.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_8e314a9bfe7f4b1b8cf01fd97b95825865c2faf4.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_b79096e680ccd3e00652efe9add79cbb27996bb7.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_5032307ba430966efab220a739126e49cffb4d62.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0-alpha1_39c61f86e9554e24e155fcd9d0dd31dc50fca153.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0-alpha1_dfa012b1641b96e562a72ebe41b7efe9e9d9a61d.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9cc7390b91165b113df3c1c20e197264481fb0e2">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/instant-run_6c11f0c2068a756549153844a60c374233b7a4d9.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1_7a2468b9f5077e00daaf1e14a4610b3629f72e26.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_a07f6aa576c4db99fd079e821545d0eaa1fed584.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_faf2b66a3b0c88150663455a3af9762402582b69.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_569622a0a13fef0ed4f88b2eb58ed12e266b080f.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_d991a710c84086f3e2cc488a8e614eaeb8e3ca50.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0-alpha1_b041a9759b8ad6985f68515b8bf9eb2fd31b05ca.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_91dc81c4ac7379984b49a1ea9bab94782a48e5a3.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0-alpha1_8ce73b429c031d0b48581fe2069071c98110781c.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_e65d1c19036f3cf572749d542bbe6e6625771bdf.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="27f707d2b1f74df3eef0ac4f430fae149a615c44">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_717ddc0fc08abd5f8268f3796ad94db2ccc30f1c.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_ee2bcdb6fc09f3afee9d409cbdf29f0c19e68e7c.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd688796dadc28f7f95db229cbfdaf91ebbb0d61">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0-alpha1_e289a69d24d74b4d73c1fda550dd1ecf429ca490.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5305936738497fe4a5d89fc4f13015931c0fd402">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.0.0-alpha1_194eca753988fd5ee86a64d1bf66cb0f24833cab.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_12e20b65ef241284c0146d219e36de506e938ba2.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_0778dad4d2e1140adb4ee68cd0a11988fd4f5671.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_5579aa175d3f25c46744ec9328c314389be8fb1a.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_5b301b562d16b3f77446ce54f08a678895869b03.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_06c1434564a0ac38726a5b09e07c399c20fa0fdd.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0-alpha1_74d424195d24b19d03cc73eafce69a251d2931dd.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_38cf9a2ca14d51e6702bab871961df462f0b9fdb.jar" />
+    </item>
+    <item
+        jar="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/AKSHAY_SOOD/Documents/AndroidStudioProjects/Projects EX/My Projects/AndroidStudioProjects/EventManager2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_7b4738535ffb2fd4a096550a08ce0b949c46b213.jar" />
+    </item>
+
+</items>
